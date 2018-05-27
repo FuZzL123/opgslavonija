@@ -1,0 +1,74 @@
+#background{
+	
+	background-image:url(drvo-tresnja.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding:0px;
+	
+	}
+	
+#bg{
+	
+	background-color: rgba(0,0,0,0.5);
+	padding: 30px;
+	margin-left: 120px;
+	margin-right:120px;
+	background-position:top;
+	
+	}
+	
+#naslov{
+	
+		font-size:60px;
+		font-family:Georgia, "Times New Roman", Times, serif;
+	
+		}
+		
+#bluba{
+	
+	font-family:"Comic Sans MS", cursive;
+	font-size:28px;
+	
+	}
+
+		
+#text{
+	
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#FFF;
+	
+	}
+			
+.fa-facebook-square{
+	
+		color:blue;
+	
+			}
+
+.fa-twitter-square{
+	
+		color:blue;
+	
+			}
+			
+
+.fa-youtube-square{
+	
+		color:red;
+	
+			}
+			
+
+.fa-google{
+	
+		color:red;
+	
+			}	
+	
+#nas{
+	background-color: rgba(0,0,0,0.5);
+	padding: 0px;
+	margin-left: 300px;
+	margin-right:300px;
+	
+	}
